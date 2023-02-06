@@ -8,4 +8,4 @@ function totalCost (products) {
 	
 return cost;
 };
-console.log(totalCost([{ name: "Dano Milk", price: 500 }, { name: "Taaza Tea", price: 200}, { name: 'Fresh Sugar', price:300}]))
+console.log(totalCost([{ name: "Dano Milk", price: 500 }, { name: "Taaza Tea", price: 200}, { name: 'Fresh Sugar', price:300}]));
